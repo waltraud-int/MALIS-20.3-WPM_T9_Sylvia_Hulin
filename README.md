@@ -1,6 +1,6 @@
 # MALIS-20.3-WPM_T9_Sylvia_Hulin
 
-## **Metadatenaquise und –management für ein Zweitveröffentlichungsservice an der UB Mannheim** ##
+## **Metadatenakquise und –management für einen Zweitveröffentlichungsservice an der UB Mannheim** ##
 Autorin: Sylvia Hulin
 
 **Inhalt:** 
